@@ -3,8 +3,8 @@
 
 - 🌱 I’m currently learning **Flutter, Python, React, Vue, Cybersecurity...**
 
-- Dev Profile Page on  [NenDev](nenadkalicanin.netlify.app)
-- 📝 I regularly write articles on [DOCUVERSE](docuverse.netlify.app)
+- Dev Profile Page on  [NenDev](https://nenadkalicanin.netlify.app)
+- 📝 I regularly write articles on [DOCUVERSE](https://docuverse.netlify.app)
 
 - 📫 How to reach me **nenad99#**
 
