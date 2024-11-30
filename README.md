@@ -6,7 +6,7 @@
 - Dev Profile Page on  [NenDev](https://nenadkalicanin.netlify.app)
 - 📝 I regularly write articles on [DOCUVERSE](https://docuverse.netlify.app)
 
-- 📫 How to reach me **nenad99#**
+- 📫 How to reach me **nenad99@hotmail.de**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
