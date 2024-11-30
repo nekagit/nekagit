@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nenad Kalicanin</h1>
-<h3 align="center">A developer from Berlin, Germany</h3>
+<h3 align="center">A developer from Dortmund, Germany / Sabac, Serbia</h3>
 
 - 🌱 I’m currently learning **Flutter, Python, React, Vue, Cybersecurity...**
 
