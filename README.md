@@ -12,7 +12,7 @@
 
 ### For HR & Recruiters
 
-**[📄 One-page portfolio](https://nekagit.github.io/nekagit/)** · **[📧 Email](mailto:nenad99@hotmail.de)** · **[LinkedIn](https://www.linkedin.com/in/nenad-kalicanin-23924119a/)**
+**[📄 Portfolio](https://nenadkalicanin.com)** · **[📧 Email](mailto:nenad99@hotmail.de)** · **[LinkedIn](https://www.linkedin.com/in/nenad-kalicanin-23924119a/)**
 
 ---
 
@@ -60,4 +60,4 @@ I turn complex requirements into **high-performance digital products**. My backg
 
 ---
 
-<sub>This repo’s README is shown on [github.com/nekagit](https://github.com/nekagit). One-page portfolio: enable **Settings → Pages → Deploy from branch (main, /)** for [nekagit.github.io/nekagit](https://nekagit.github.io/nekagit).</sub>
+<sub>This repo’s README is shown on [github.com/nekagit](https://github.com/nekagit).</sub>
