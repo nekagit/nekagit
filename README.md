@@ -37,8 +37,6 @@
 | Past | **qmbase GmbH** | Quality management & digital solutions |
 | Past | **Bytes Coding GmbH** | Software development & consulting |
 
-*6+ years in IT Consulting · 3+ companies · 300+ clients · 50+ programs & applications delivered*
-
 ---
 
 ## Built
