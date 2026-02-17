@@ -2,7 +2,7 @@
 
 # Hi 👋 I'm Nenad Kalicanin
 
-**Full-Stack Developer & Technical Trainer** · Frontend · Backend · UI/UX
+**Full-Stack Developer & Technical Trainer** · Frontend · Backend · Cloud · Security · AI
 
 *BSc Computer Science · 6+ years in IT Consulting · 3+ companies · 300+ clients · 50+ programs & applications delivered*
 
