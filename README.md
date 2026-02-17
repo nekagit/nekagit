@@ -47,6 +47,25 @@ I turn complex requirements into **high-performance digital products**. BSc Comp
 
 ---
 
+## Education
+
+| | |
+|--|--|
+| **Current** | **M.Sc. student** · [FernUniversität Hagen](https://www.fernuni-hagen.de/) (FernUni Hagen) |
+| | BSc Computer Science |
+
+---
+
+## Certifications
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Microsoft-AZ--900_Azure_Fundamentals-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure 900" height="22"/>
+  <img src="https://img.shields.io/badge/ISTQB-Certified-2C3E50?style=flat-square" alt="ISTQB" height="22"/>
+  <img src="https://img.shields.io/badge/CompTIA-Security%2B_planned-E4405F?style=flat-square&logo=comptia&logoColor=white" alt="CompTIA Sec+ planned" height="22"/>
+</p>
+
+---
+
 ## Tech stack
 
 <p align="left">
