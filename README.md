@@ -56,16 +56,16 @@ I turn complex requirements into **high-performance digital products**. BSc Comp
 
 ---
 
-## Education
+## Education & Certifications
+
+**Education**
 
 | | |
 |--|--|
 | **Current** | **M.Sc. student** · [FernUniversität Hagen](https://www.fernuni-hagen.de/) (FernUni Hagen) |
 | | BSc Computer Science |
 
----
-
-## Certifications
+**Certifications**
 
 <p align="left">
   <img src="https://img.shields.io/badge/Microsoft-AZ--900_Azure_Fundamentals-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure 900" height="22"/>
