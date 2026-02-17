@@ -38,10 +38,10 @@ I turn complex requirements into **high-performance digital products**. BSc Comp
 | | Company | Role |
 |--|--|--|
 | **Current** | **[Kara&Weiß](https://karaweiss.org)** | Co-founder & Full-Stack Developer — web apps, mobile (Flutter), ISO 9001 QMS |
+| **Current** | **MSIT GmbH** | IT services & software solutions |
 | Past | **OrgaTech GmbH** | IT Consulting & Software Development |
 | Past | **qmbase GmbH** | Quality management & digital solutions |
 | Past | **Bytes Coding GmbH** | Software development & consulting |
-| Past | **MSIT GmbH** | IT services & software solutions |
 
 *6+ years in IT Consulting · 3+ companies · 300+ clients · 50+ programs & applications delivered*
 
