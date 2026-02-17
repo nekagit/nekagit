@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nenad Kalicanin</h1>
 <h3 align="center">Developer | Dortmund, Germany 🇩🇪 & Sabac, Serbia 🇷🇸</h3>
 
+> **For HR & Recruiters** — One-page portfolio: **[Open portfolio (GitHub Pages)](https://nekagit.github.io/nekagit/)** · **Email:** [nenad99@hotmail.de](mailto:nenad99@hotmail.de) · **LinkedIn:** [Nenad Kalicanin](https://www.linkedin.com/in/nenad-kalicanin-23924119a/)
+
 ---
 
 <p align="center">
@@ -51,6 +53,17 @@
 - Developer workflows
 - Frontend frameworks
 - Career & tech insights
+
+---
+
+## 🌐 Live portfolio (for HR)
+
+This repo includes a one-page portfolio. To publish it:
+
+1. Go to **Settings → Pages** in this repo.
+2. Under **Source**, choose **Deploy from a branch**.
+3. Branch: **main**, folder: **/ (root)**.
+4. Save. The site will be at **https://nekagit.github.io/nekagit/**.
 
 ---
 
