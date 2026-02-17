@@ -118,7 +118,6 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/nenad-kalicanin-23924119a/" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/LinkedIn-Nenad%20Kalicanin-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="28"/></a>
-  <a href="https://instagram.com/nenadkal" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Instagram-@nenadkal-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" height="28"/></a>
 </p>
 
 - 📧 **Email:** [nenad99@hotmail.de](mailto:nenad99@hotmail.de)
