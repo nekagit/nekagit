@@ -38,7 +38,7 @@ I turn complex requirements into **high-performance digital products**. BSc Comp
 | | Company | Role |
 |--|--|--|
 | **Current** | **[Kara&Weiß](https://karaweiss.org)** | Co-founder & Full-Stack Developer |
-| **Current** | **MSIT GmbH** | IT services & software solutions |
+| **Current** | **[MSIT GmbH](https://www.msit.de)** | IT services & software solutions |
 | Past | **OrgaTech GmbH** | IT Consulting & Software Development |
 | Past | **qmbase GmbH** | Quality management & digital solutions |
 | Past | **Bytes Coding GmbH** | Software development & consulting |
