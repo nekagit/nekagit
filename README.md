@@ -27,12 +27,6 @@
 
 ---
 
-## About me
-
-I turn complex requirements into **high-performance digital products**. BSc Computer Science, modern frontend specialisations (The Joy of React, CSS for JavaScript Developers), and experience as a **technical trainer**. Focus on scalable, maintainable architectures — Flutter, React, Vue, TypeScript, Python, Cybersecurity.
-
----
-
 ## Experience
 
 | | Company | Role |
