@@ -47,6 +47,15 @@ I turn complex requirements into **high-performance digital products**. BSc Comp
 
 ---
 
+## Built
+
+| | |
+|--|--|
+| **First SaaS** | **[viralsync.io](https://viralsync.io)** |
+| **First webshop** | **[casa-petrada.de](https://casa-petrada.de)** |
+
+---
+
 ## Education
 
 | | |
