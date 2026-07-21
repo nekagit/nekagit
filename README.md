@@ -4,9 +4,9 @@
 
 **Full-Stack Developer & Technical Trainer** · Frontend · Backend · Cloud · Security · AI
 
-*BSc Computer Science · 6+ years in IT Consulting · 3+ companies · 300+ clients · 50+ programs & applications delivered*
+*BSc Computer Science · 8+ years in IT Consulting · 5+ companies · 500+ teachings · 50+ AI programs & AI applications delivered*
 
-📍 Dortmund, Germany & Sabac, Serbia · Languages: 🇩🇪 🇬🇧 🇷🇸 🇪🇸 🇹🇷
+📍 Germany & Sabac, Serbia · Languages: 🇩🇪 🇬🇧 🇷🇸 🇪🇸 🇹🇷
 
 ---
 
