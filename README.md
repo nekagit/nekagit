@@ -48,7 +48,6 @@ Germany 🇩🇪 · Šabac, Serbia 🇷🇸 · German · English · Serbian · S
 
 A few public products:
 
-- [viralsync.io](https://viralsync.io) — social media analytics SaaS
 - [casa-petrada.de](https://casa-petrada.de) — e-commerce webshop
 - [nenadkalicanin.com](https://nenadkalicanin.com) — portfolio, projects, and professional credentials
 - [karaweiss.org](https://karaweiss.org) — Kara & Weiß
