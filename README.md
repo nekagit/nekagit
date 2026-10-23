@@ -175,7 +175,6 @@ This work explores music software, algorithmic transposition, and digital notati
 | Period | Company | Focus |
 | --- | --- | --- |
 | Current | [Kara & Weiß](https://karaweiss.org) | Co-founder & Full-Stack Developer |
-| Current | [MSIT GmbH](https://www.msit.de) | IT services and software solutions |
 | Previous | OrgaTech GmbH | IT consulting and software development |
 | Previous | qmbase GmbH | Quality management and digital solutions |
 | Previous | bytes Coding GmbH | Software development, consulting, and training |
