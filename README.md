@@ -22,10 +22,10 @@ Germany 🇩🇪 · Šabac, Serbia 🇷🇸 · German · English · Serbian · S
 ## About me
 
 - Full-stack engineer and AI architect with 8+ years in IT consulting
-- B.Sc. in Computer Science from TU Dortmund; currently pursuing an M.Sc. at FernUniversität in Hagen
+- B.Sc. in Computer Science from TU Dortmund
 - 400+ developers mentored through software engineering, Python, Git, web technologies, and architecture
 - Experienced across frontend, backend, mobile, cloud infrastructure, security, and autonomous AI workflows
-- Currently building with Kara & Weiß and contributing to IT services and software solutions at MSIT GmbH
+- Currently building with Kara & Weiß
 - Open to senior engineering roles, AI consulting, and high-impact architecture collaborations
 
 ## What I build
@@ -205,7 +205,6 @@ This work explores music software, algorithmic transposition, and digital notati
 
 ## Education & credentials
 
-- **M.Sc. Computer Science** — FernUniversität in Hagen, in progress
 - **B.Sc. Computer Science** — TU Dortmund
 - **Microsoft Azure Fundamentals (AZ-900)**
 
