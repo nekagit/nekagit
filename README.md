@@ -95,7 +95,7 @@ A few public products:
 
 If you are hiring for a senior engineering role, need help designing an AI-enabled product, or want to discuss a technical collaboration:
 
-- 📧 [contact@nenadkalicanin.com](mailto:contact@nenadkalicanin.com)
+- 📧 [nenad99@hotmail.de](mailto:nenad99@hotmail.de)
 - 🌐 [nenadkalicanin.com](https://nenadkalicanin.com)
 - 🏢 [Kara & Weiß](https://karaweiss.org)
 - 💼 [LinkedIn](https://www.linkedin.com/in/nenad-kalicanin-23924119a/)
