@@ -90,7 +90,6 @@ A few public products:
 - **M.Sc. Computer Science** — FernUniversität in Hagen, in progress
 - **B.Sc. Computer Science** — TU Dortmund
 - **Microsoft Azure Fundamentals (AZ-900)**
-- **ISTQB Certified**
 
 ## Let's connect
 
