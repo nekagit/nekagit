@@ -2,128 +2,105 @@
 
 # Hi 👋 I'm Nenad Kalicanin
 
-**Full-Stack Developer & Technical Trainer** · Frontend · Backend · Cloud · Security · AI
+### Senior Full-Stack Engineer · AI Architect · Technical Mentor
 
-*BSc Computer Science · 8+ years in IT Consulting · 5+ companies · 500+ teachings · 50+ AI programs & AI applications delivered*
+I build production-ready web, mobile, cloud, and AI systems — from system architecture and APIs to polished interfaces, CI/CD, and deployment.
 
-📍 Germany & Sabac, Serbia · Languages: 🇩🇪 🇬🇧 🇷🇸 🇪🇸 🇹🇷
-
----
-
-### For HR & Recruiters
-
-**[📄 Portfolio](https://nenadkalicanin.com)** · **[🏢 My company](https://karaweiss.org)** · **[📧 Email](mailto:nenad99@hotmail.de)** · **[LinkedIn](https://www.linkedin.com/in/nenad-kalicanin-23924119a/)**
-
----
-
-<p align="center">
-  <a href="https://nenadkalicanin.com"><img src="https://img.shields.io/badge/Portfolio-nenadkalicanin.com-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" height="32"/></a>
-  <a href="https://karaweiss.org"><img src="https://img.shields.io/badge/Company-Kara%26Wei%C3%9F-0A66C2?style=for-the-badge&logo=link&logoColor=white" alt="Kara&Weiß" height="32"/></a>
-  <a href="https://nenadkalicanin.com/resume"><img src="https://img.shields.io/badge/Resume-MeHire-6C63FF?style=for-the-badge&logo=readme&logoColor=white" alt="Resume" height="32"/></a>
-  <a href="mailto:nenad99@hotmail.de"><img src="https://img.shields.io/badge/Email-nenad99@hotmail.de-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="32"/></a>
+<p>
+  <a href="https://nenadkalicanin.com"><img src="https://img.shields.io/badge/Portfolio-nenadkalicanin.com-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://karaweiss.org"><img src="https://img.shields.io/badge/Company-Kara%20%26%20Wei%C3%9F-111827?style=for-the-badge&logo=link&logoColor=white" alt="Kara & Weiß" /></a>
+  <a href="mailto:contact@nenadkalicanin.com"><img src="https://img.shields.io/badge/Contact-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/nenad-kalicanin-23924119a/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
+
+Germany 🇩🇪 · Šabac, Serbia 🇷🇸 · German · English · Serbian · Spanish · Turkish
 
 </div>
 
 ---
 
+## About me
+
+- Full-stack engineer and AI architect with 8+ years in IT consulting
+- B.Sc. in Computer Science from TU Dortmund; currently pursuing an M.Sc. at FernUniversität in Hagen
+- 400+ developers mentored through software engineering, Python, Git, web technologies, and architecture
+- Experienced across frontend, backend, mobile, cloud infrastructure, security, and autonomous AI workflows
+- Currently building with Kara & Weiß and contributing to IT services and software solutions at MSIT GmbH
+- Open to senior engineering roles, AI consulting, and high-impact architecture collaborations
+
+## What I build
+
+| Area | Focus |
+| --- | --- |
+| AI & autonomous systems | Local LLMs, RAG pipelines, vector search, agent tooling, and multi-LLM workflows |
+| Full-stack products | Scalable web applications, SaaS platforms, APIs, dashboards, and e-commerce |
+| Mobile & cloud | Cross-platform Flutter applications, containerized services, CI/CD, AWS, and Azure |
+| Engineering quality | Clean architecture, testing, code review, accessibility, security, and maintainable delivery |
+| Teaching & mentoring | Practical software engineering, algorithms, Python, Git, React, Flutter, and technical communication |
+
+## Selected work
+
+- **AI systems and developer tooling** — productivity workflows, retrieval pipelines, local model integrations, and autonomous coding agents
+- **Social media analytics SaaS** — multi-channel scheduling, publishing, dashboards, metrics, and automated alerts
+- **Cross-platform commerce** — Flutter applications, real-time inventory, cart synchronization, and Stripe billing
+- **Enterprise platforms** — quality management, time tracking, geolocation, audit-ready workflows, and payroll integrations
+- **Music and algorithms** — MusicXML parsing, sheet-music transposition, and digital music analysis
+
+A few public products:
+
+- [viralsync.io](https://viralsync.io) — social media analytics SaaS
+- [casa-petrada.de](https://casa-petrada.de) — e-commerce webshop
+- [nenadkalicanin.com](https://nenadkalicanin.com) — portfolio, projects, and professional credentials
+- [karaweiss.org](https://karaweiss.org) — Kara & Weiß
+
 ## Experience
 
-| | Company | Role |
-|--|--|--|
-| **Current** | **[Kara&Weiß](https://karaweiss.org)** | Co-founder & Full-Stack Developer |
-| **Current** | **[MSIT GmbH](https://www.msit.de)** | IT services & software solutions |
-| Past | **OrgaTech GmbH** | IT Consulting & Software Development |
-| Past | **qmbase GmbH** | Quality management & digital solutions |
-| Past | **Bytes Coding GmbH** | Software development & consulting |
-
----
-
-## Built
-
-| | |
-|--|--|
-| **First SaaS** | **[viralsync.io](https://viralsync.io)** |
-| **First webshop** | **[casa-petrada.de](https://casa-petrada.de)** |
-
----
-
-## Education & Certifications
-
-| | |
-|--|--|
-| **Current** | **M.Sc. student** · [FernUniversität Hagen](https://www.fernuni-hagen.de/) (FernUni Hagen) |
-| | BSc Computer Science |
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Microsoft-AZ--900_Azure_Fundamentals-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure 900" height="28"/>
-  <img src="https://img.shields.io/badge/ISTQB-Certified-2C3E50?style=flat-square" alt="ISTQB" height="28"/>
-  <img src="https://img.shields.io/badge/CompTIA-Security%2B_planned-E4405F?style=flat-square&logo=comptia&logoColor=white" alt="CompTIA Sec+ planned" height="28"/>
-</p>
-
----
+| Period | Company | Focus |
+| --- | --- | --- |
+| Current | [Kara & Weiß](https://karaweiss.org) | Co-founder & Full-Stack Developer |
+| Current | [MSIT GmbH](https://www.msit.de) | IT services and software solutions |
+| Previous | OrgaTech GmbH | IT consulting and software development |
+| Previous | qmbase GmbH | Quality management and digital solutions |
+| Previous | bytes Coding GmbH | Software development, consulting, and training |
 
 ## Tech stack
 
-<p align="left">
-  <strong>Frontend</strong><br/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" height="28"/>
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue" height="28"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" height="28"/>
-  <img src="https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white" alt="Nuxt" height="28"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" height="28"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" height="28"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" height="28"/>
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white" alt="Sass" height="28"/>
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" height="28"/>
-</p>
-<p align="left">
-  <strong>Mobile</strong><br/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" height="28"/>
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" height="28"/>
-</p>
-<p align="left">
-  <strong>Backend & Data</strong><br/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" height="28"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" height="28"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" height="28"/>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" height="28"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" height="28"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" height="28"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" height="28"/>
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" alt="GraphQL" height="28"/>
-</p>
-<p align="left">
-  <strong>Cloud & Security</strong><br/>
-  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure" height="28"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" height="28"/>
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="Terraform" height="28"/>
-  <img src="https://img.shields.io/badge/CompTIA_Security-E4405F?style=flat-square&logo=comptia&logoColor=white" alt="Security" height="28"/>
-  <img src="https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white" alt="OWASP" height="28"/>
-</p>
-<p align="left">
-  <strong>Tools & DevOps</strong><br/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" height="28"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" height="28"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" height="28"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" height="28"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" height="28"/>
-  <img src="https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white" alt="Cypress" height="28"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" height="28"/>
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure" />
 </p>
 
----
+**Frontend:** React, Next.js, Vue, Nuxt, TypeScript, HTML, CSS, Sass, Tailwind CSS, Pinia, Zustand
 
-## Connect
+**Backend & data:** Python, FastAPI, Node.js, Bun, Java, Spring, C#, ASP.NET Core, PHP, Laravel, PostgreSQL, MySQL, MongoDB, GraphQL, REST APIs
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/nenad-kalicanin-23924119a/" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/LinkedIn-Nenad%20Kalicanin-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="28"/></a>
-</p>
+**AI & security:** Local LLMs, RAG, vector databases, autonomous agents, OpenAI APIs, OWASP, secure application design
 
-- 📧 **Email:** [nenad99@hotmail.de](mailto:nenad99@hotmail.de)
-- 🌐 **Portfolio:** [nenadkalicanin.com](https://nenadkalicanin.com) · [NenDev](https://nenadkalicanin.netlify.app)
-- 🏢 **Kara&Weiß:** [karaweiss.org](https://karaweiss.org) · [karaweiß@outlook.de](mailto:karaweiß@outlook.de)
+**Cloud & DevOps:** AWS, Microsoft Azure, Docker, Kubernetes, Terraform, Azure DevOps, CI/CD, Linux
 
----
+**Mobile & quality:** Flutter, React Native, Cypress, testing, accessibility, code review, clean architecture
 
-<sub>This repo’s README is shown on [github.com/nekagit](https://github.com/nekagit).</sub>
+## Education & credentials
+
+- **M.Sc. Computer Science** — FernUniversität in Hagen, in progress
+- **B.Sc. Computer Science** — TU Dortmund
+- **Microsoft Azure Fundamentals (AZ-900)**
+- **ISTQB Certified**
+
+## Let's connect
+
+If you are hiring for a senior engineering role, need help designing an AI-enabled product, or want to discuss a technical collaboration:
+
+- 📧 [contact@nenadkalicanin.com](mailto:contact@nenadkalicanin.com)
+- 🌐 [nenadkalicanin.com](https://nenadkalicanin.com)
+- 🏢 [Kara & Weiß](https://karaweiss.org)
+- 💼 [LinkedIn](https://www.linkedin.com/in/nenad-kalicanin-23924119a/)
+- 🐙 [GitHub](https://github.com/nekagit)
+
+<sub>This is the profile README for <a href="https://github.com/nekagit">@nekagit</a>.</sub>
